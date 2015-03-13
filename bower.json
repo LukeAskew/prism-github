@@ -1,0 +1,21 @@
+{
+  "name": "prism-github",
+  "version": "0.1.0",
+  "homepage": "https://github.com/LukeAskew/prism-github",
+  "authors": [
+    "Luke Askew <lukeaskew@gmail.com>"
+  ],
+  "description": "A Prism syntax highlighter theme based on Github's style.",
+  "main": "prism-github.scss",
+  "keywords": [
+    "prism"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
