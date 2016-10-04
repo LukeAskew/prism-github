@@ -1,0 +1,16 @@
+{
+  "name": "prism-github",
+  "version": "1.0.0",
+  "description": "A Prism syntax highlighter theme based on Github's style",
+  "main": "prism-github.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeAskew/prism-github.git"
+  },
+  "author": "Luke Askew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukeAskew/prism-github/issues"
+  },
+  "homepage": "https://github.com/LukeAskew/prism-github#readme"
+}
