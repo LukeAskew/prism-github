@@ -1,6 +1,6 @@
 {
   "name": "prism-github",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Prism syntax highlighter theme based on Github's style",
   "main": "prism-github.css",
   "repository": {
